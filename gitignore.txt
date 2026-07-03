@@ -1,0 +1,27 @@
+# ============================================================
+# Dataset OMI principale — escluso per ragioni di licenza
+# (i dati OMI non hanno una licenza open data esplicita)
+# Vedi README.md > sezione "Dati" per le istruzioni su come
+# ottenere gli stessi dati dal portale ufficiale.
+# ============================================================
+1-data/dashboard_dataset.csv
+
+# File temporanei Python
+__pycache__/
+*.py[cod]
+*.pkl
+*.db
+*.sqlite3
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# File temporanei Office
+~$*.xlsx
+~$*.docx
+
+# OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
