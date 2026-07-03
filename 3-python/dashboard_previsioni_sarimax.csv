@@ -1,0 +1,7 @@
+Provincia;Citta_capoluogo;Ordine_SARIMAX;AIC;R2_SARIMAX_test;MAE_SARIMAX_test;R2_Regressione_test;Prezzo_H2_2025;Prezzo_Previsto_H1_2026_SARIMAX;Variazione_pct
+BO;Bologna;SARIMA(1, 1, 1)(0, 1, 1, 2);60.61;-0.685;28.9;0.07;1676.6;1711.5;2.09
+MI;Milano;SARIMA(1, 1, 1)(0, 1, 1, 2);90.14;0.848;17.0;-7.572;1993.2;2004.2;0.55
+NA;Napoli;SARIMA(1, 1, 1)(0, 1, 1, 2);99.38;-22.128;75.4;-8.363;1895.4;1905.1;0.51
+PA;Palermo;SARIMA(1, 1, 1)(0, 1, 1, 2);79.31;-10.651;28.1;-6.724;844.6;852.9;0.98
+RM;Roma;SARIMA(1, 1, 1)(0, 1, 1, 2);86.78;-2.425;56.4;-6.694;2032.4;2054.5;1.09
+TO;Torino;SARIMA(1, 1, 1)(0, 1, 1, 2);72.34;-184.11;77.8;-9.056;1111.0;1110.1;-0.08
